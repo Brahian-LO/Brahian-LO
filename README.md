@@ -1,6 +1,6 @@
 # Hola, soy Brahian Fernando Lopez Torres 👋
 
-## Ingeniero de Sistemas | Backend Developer
+## Systems Engineer | Backend Developer | Python
 
 Soy Ingeniero de Sistemas enfocado en el desarrollo Backend con Python.
 
@@ -60,7 +60,7 @@ Sistema backend para gestión y seguimiento de incidentes.
 
 ---
 
-## 📚 Mi ruta de aprendizaje
+## 📚 Actualmente aprendiendo
 
 Actualmente estoy siguiendo una ruta enfocada en Backend Development:
 
